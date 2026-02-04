@@ -25,5 +25,5 @@ public class ForLoop {
         // }
         // System.out.println("Total is : " + sum);
         // }
-    }
+    } 
 }
