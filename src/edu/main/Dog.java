@@ -15,7 +15,7 @@ public class Dog {
 
     public int getAgeInHumanYears() {
         int humanYears = 0;
-        if (age <= 2) {
+        if (age <= 2) { 
             humanYears = age * 11;
         } else {
             humanYears = 22 + ((age-2) * 5);
